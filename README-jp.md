@@ -1,6 +1,7 @@
 #### **[Japam「ジャパム」](https://japamu.github.io/)によってのみ作成されました**
+[Twitter](https://twitter.com/japam21) にフォローにしてください
 
-この作品を好きになったら,ko-fiでサポートに検討する欲しいです。そごっく助かります。
+この作品を好きになったら,**Ko-fi**でサポートに検討する欲しいです。そごっく助かります。
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K33NUQ4)
 
