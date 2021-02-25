@@ -1,4 +1,5 @@
 #### Single Handedly Developed by **[Japam](https://japamu.github.io/)**
+Follow him on [Twitter](https://twitter.com/japam21)
 
 If you liked my work consider supporting me via ko-fi. That would help me a lot.
 
