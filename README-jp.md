@@ -28,7 +28,7 @@
 - 音楽をアプリの中にロードして
 - 演奏をレコードとプレーとセーブとロード
 - AR 「Augmented Reality」
-- Saved Performance Files(.hds) Compatibility between PC and Android versions
+- AndroidとWindowsのセーブデータ(.hds)はコンパチ
 
 > Androidバージョンがサポートな音楽ファイルなはただのMP3
 
