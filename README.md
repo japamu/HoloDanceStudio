@@ -16,11 +16,11 @@ If you liked my work consider supporting me via ko-fi. That would help me a lot.
 # HoloDanceStudio
 **Holo Dance Studio** is an independently created Fan-made Dance Studio Application where you make the chibified vtuber idol dance and sing using accessible and intuitive controls.
 
-- [Release](https://github.com/japamu/HoloDanceStudio)
+- [Release](http://bit.ly/winHDS)
 
 #### Other Links
-- [Holo Dance Studio Hub](https://japamu.github.io/HoloDanceStudio)
-- [Holo Dance Studio Android](https://japamu.github.io/HoloDanceStudio)
+- [Holo Dance Studio Hub](http://bit.ly/siteHDS)
+- [Holo Dance Studio Android](http://bit.ly/googleHDS)
 
 ![](https://japamu.github.io/res/feature.jpg)
 
