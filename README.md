@@ -26,6 +26,7 @@ If you liked my work consider supporting me via ko-fi. That would help me a lot.
 - Load Music into the App
 - Record, Play, Save and Load Performances
 - Augmented Reality
+- Saved Performance Files(.hds) Compatibility between PC and Android versions
 
 > Due to the limited scope, only WAV files are supported for the windows version and only MP3 files are supported for Android.
 
