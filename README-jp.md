@@ -22,7 +22,7 @@
 - [Holo Dance Studio Site](http://bit.ly/siteHDS)
 - [Holo Dance Studio @Google Play](http://bit.ly/googleHDS)
 
-![](https://japamu.github.io/res/feature.jpg)
+![](https://raw.githubusercontent.com/japamu/japamu.github.io/main/res/feature-jp.jpg)
 
 ### 【機能】
 - アバターを動くにコントロールして
