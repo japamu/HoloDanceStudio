@@ -16,7 +16,7 @@
 # HoloDanceStudio「ホロダンススタジオ」
 **Holo Dance Studio 「ホロダンススタジオ」** はとってもシンプルなアプリにvtuberのSDアバターがダンスと歌うに君のコントロールして。
 
-- [リリース](http://bit.ly/winHDS_release)
+- [リリース](http://bit.ly/winHDS_r)
 
 #### 【他のリンク】
 - [Holo Dance Studio Site](http://bit.ly/siteHDS)
